@@ -1,7 +1,7 @@
 var friendList = [
     {
       name: "Tom",
-      profilePic: "",
+      profilePic: "http://oi64.tinypic.com/123lguv.jpg",
       scores: [
         "1",
         "2",
@@ -17,7 +17,7 @@ var friendList = [
     },
     {
         name: "James",
-        profilePic: "",
+        profilePic: "http://oi66.tinypic.com/24pdhj5.jpg",
         scores: [
           "4",
           "5",
@@ -33,7 +33,7 @@ var friendList = [
       },
       {
         name: "Harry",
-        profilePic: "",
+        profilePic: "http://oi65.tinypic.com/dpg75h.jpg",
         scores: [
           "4",
           "1",
@@ -49,7 +49,7 @@ var friendList = [
       },
       {
         name: "Nancy",
-        profilePic: "",
+        profilePic: "http://oi65.tinypic.com/dpgvwy.jpg",
         scores: [
           "4",
           "5",
